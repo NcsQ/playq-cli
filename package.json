@@ -1,0 +1,17 @@
+{
+  "name": "@playq/cli",
+  "version": "1.0.0",
+  "description": "Command-line interface for the PlayQ Test Automation Framework",
+  "bin": {
+    "playq": "./bin/playq.js"
+  },
+  "type": "module",
+  "dependencies": {
+    "adm-zip": "^0.5.10",
+    "chalk": "^5.3.0",
+    "commander": "^12.1.0",
+    "ora": "^7.0.1"
+  },
+  "author": "PlayQ Architect - Renish Kozhithottathil",
+  "license": "MIT"
+}

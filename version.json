@@ -1,0 +1,9 @@
+{
+  "name": "playq-cli",
+  "version": "1.0.0",
+  "build": "2025.11.09.001",
+  "branch": "main",
+  "commit": "d7a3c9b",
+  "released": "2025-11-05T09:30:00Z",
+  "notes": "PlayQ Cli 1.0.0 released."
+}
