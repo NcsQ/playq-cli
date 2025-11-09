@@ -1,6 +1,6 @@
 {
   "name": "@playq/cli",
-  "version": "1.0.0",
+  "version": "1.0.0-beta",
   "description": "Command-line interface for the PlayQ Test Automation Framework",
   "bin": {
     "playq": "./bin/playq.js"
