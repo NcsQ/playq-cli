@@ -1,6 +1,6 @@
 {
   "name": "@playq/cli",
-  "version": "1.0.0-beta",
+  "version": "1.2.0",
   "description": "Command-line interface for the PlayQ Test Automation Framework",
   "publishConfig": { "access": "public" },
   "keywords": [
